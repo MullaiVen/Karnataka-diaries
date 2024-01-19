@@ -1,4 +1,4 @@
-# Karnataka-diaries (Revamp)
+# Karnataka-diaries
 ## Exploring the beauty of Karnataka
 Various evergreen locations to watch out for...
 
